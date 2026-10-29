@@ -1,16 +1,18 @@
 ## Hi there 👋
+I am a passionate developer with a strong foundation in Computational Physics and AI Orchestration. I love exploring the intersections of physics, artificial intelligence, and quantum mechanics to build intelligent, scalable solutions.
 
-<!--
-**Joel2536/Joel2536** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My Skills
+Quantum Computing: Qiskit, Quantum Algorithm Development
 
-Here are some ideas to get you started:
+Artificial Intelligence: AI Orchestration, Machine Learning Models
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Physics: Computational Physics, Mathematical Modeling
+
+Programming: Python, C++
+
+🚀 My Quantum Journey
+I am actively developing my expertise in Quantum Computing to address complex computational challenges.
+
+📫 How to reach me:www.linkedin.com/in/joel-davi-ab9145264
+
+
